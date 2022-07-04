@@ -1,0 +1,8 @@
+//
+// Created by hungr on 22/07/05.
+//
+
+#ifndef GLSL_INCLUDE_CPP_GLSL_INCLUDE_H
+#define GLSL_INCLUDE_CPP_GLSL_INCLUDE_H
+
+#endif //GLSL_INCLUDE_CPP_GLSL_INCLUDE_H

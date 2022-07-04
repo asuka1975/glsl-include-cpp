@@ -1,6 +1,0 @@
-#ifndef GLSL_INCLUDE_CPP_LIBRARY_H
-#define GLSL_INCLUDE_CPP_LIBRARY_H
-
-void hello();
-
-#endif //GLSL_INCLUDE_CPP_LIBRARY_H

@@ -6,4 +6,4 @@ set(CMAKE_CXX_FLAGS "-Wall -Wextra")
 set(CMAKE_CXX_FLAGS_DEBUG "-g -O0")
 set(CMAKE_CXX_FLAGS_RELEASE "-O2 -DNDEBUG")
 
-add_library(glsl_include_cpp library.cpp)
+add_library(glsl_include_cpp include/glsl-include.h src/glsl-include.cpp)

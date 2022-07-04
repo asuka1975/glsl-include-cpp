@@ -1,5 +1,5 @@
 //
-// Created by hungr on 22/07/05.
+// Created by asuka1975 on 22/07/05.
 //
 
 #ifndef GLSL_INCLUDE_CPP_GLSL_INCLUDE_H

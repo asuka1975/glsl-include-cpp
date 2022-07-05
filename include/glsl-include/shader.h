@@ -7,8 +7,6 @@
 
 #include <string>
 
-#include <GL/gl.h>
-
 #include "shader_context.h"
 
 namespace gl {
